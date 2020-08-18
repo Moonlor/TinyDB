@@ -47,11 +47,11 @@ https://github.com/cstack/db_tutorial
 
  
 
- ![img](/Users/likun/Projects/VSCodeProjects/tinyDB/img/clip_image002.jpg)
+![img](img/clip_image002.jpg)
 
  
 
-​     ![img](/Users/likun/Projects/VSCodeProjects/tinyDB/img/clip_image004.jpg)
+![img](img/clip_image004.jpg)
 
  
 
@@ -59,17 +59,17 @@ https://github.com/cstack/db_tutorial
 
 ####  
 
- ![img](/Users/likun/Projects/VSCodeProjects/tinyDB/img/clip_image006.jpg)
+ ![img](img/clip_image006.jpg)
 
  理论总存储量
 
- ![img](/Users/likun/Projects/VSCodeProjects/tinyDB/img/clip_image008.jpg)
+ ![img](img/clip_image008.jpg)
 
  
 
 ##### 非叶子节点
 
-![img](/Users/likun/Projects/VSCodeProjects/tinyDB/img/clip_image010.jpg)
+![img](img/clip_image010.jpg)
 
  
 
@@ -85,7 +85,7 @@ pager接收命令以读取或写入数据页。它负责以适当的偏移量在
 
  
 
-​         ![img](/Users/likun/Projects/VSCodeProjects/tinyDB/img/clip_image012.jpg)
+​         ![img](img/clip_image012.jpg)
 
  
 
@@ -99,6 +99,6 @@ vim mydb.db
 
 
 
-![img](/Users/likun/Projects/VSCodeProjects/tinyDB/img/clip_image014.jpg)
+![img](img/clip_image014.jpg)
 
  
